@@ -1,0 +1,15 @@
+.pixel-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pixel-content{
+    text-align: left;
+    max-width: 550px;
+    color: #4D4D4D;
+}
+
+h5{
+    color: #717171;
+}

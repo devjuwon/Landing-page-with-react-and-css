@@ -1,0 +1,24 @@
+main{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 90px 60px 90px 60px;
+    
+    background-color: E0E0E0;
+}
+
+main div h1{
+    width: 652px;
+    color: #4d4d4d;
+    font-size: 48px;
+    
+}
+
+main div h1 span{
+    color: #4CAF4F;
+}
+
+main div h6{
+    color: #717171;
+}

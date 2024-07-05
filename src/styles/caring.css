@@ -1,0 +1,38 @@
+.caring{
+    text-align: center;
+    padding-top: 60px;
+    color: #4D4D4D;
+    padding: 0px 0px 0px 0px;
+    line-height: 20px;
+    
+}
+
+.caring-idea{
+    max-width: 500px;
+    margin-right: 100px;
+    padding-left: 300px;
+    padding-bottom: 40px;
+   
+}
+
+.caring-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.caring-type{
+    text-align: center;
+    max-width: 325px;
+    max-height: 90px;
+    font-size: 20px;
+    color: #717171;
+    line-height: 30px;
+}
+
+.caring-control{
+    color: #4CAF4F;
+    border: none;
+    background-color: white;
+}

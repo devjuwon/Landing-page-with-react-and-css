@@ -1,0 +1,43 @@
+.customer-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.customer-content{
+    text-align: left;
+    max-width: 550px;
+    color: #4D4D4D;
+    height: 400px;
+}
+
+.customer-logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.customer-pic{
+    max-width: 40px;
+    max-height: 40px;
+    padding-top: 10px;
+}
+
+h5{
+    color: #717171;
+}
+
+p{
+ color: #4CAF4F;
+ font-weight: bold;
+}
+
+.customer-name{
+    color: #4CAF4F;
+}
+
+.customer-icon{
+    max-width: 10px;
+    max-height: 10px;
+    padding-top: 27px;
+}
